@@ -1,6 +1,7 @@
 @import "colores";
 @import "estructura";
 @import "tipografia";
+@import "maps";
 
 footer {
     background-color: $color_secundario;
@@ -19,3 +20,4 @@ footer {
 .nav-color {
     background-color: $nav_color;
 }
+ 

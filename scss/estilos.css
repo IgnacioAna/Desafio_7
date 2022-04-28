@@ -1,3 +1,30 @@
+.red {
+  color: red; }
+
+.black {
+  color: black; }
+
+.white {
+  color: white; }
+
+.grey {
+  color: grey; }
+
+.red {
+  color: red; }
+
+.black {
+  color: black; }
+
+.white {
+  color: white; }
+
+.grey {
+  color: grey; }
+
+.lightgrey {
+  color: lightgrey; }
+
 * {
   margin: 0;
   padding: 0;
@@ -13,6 +40,45 @@ body, main {
 
 .titulo {
   text-decoration: overline; }
+
+.btn-index {
+  background-color: black; }
+
+.btn-sandwichs {
+  background-color: #1c1919; }
+
+.btn-quienes {
+  background-color: #252020; }
+
+.btn-horarios {
+  background-color: #1a1919; }
+
+.btn-contacto {
+  background-color: #302828; }
+
+.color1 {
+  color: black; }
+
+.color2 {
+  color: white; }
+
+.color3 {
+  color: red; }
+
+.color4 {
+  color: grey; }
+
+.ancho1 {
+  background-color: black;
+  width: 720px; }
+
+.ancho2 {
+  background-color: black;
+  width: 480px; }
+
+.ancho3 {
+  background-color: black;
+  width: 600px; }
 
 footer {
   background-color: grey; }
